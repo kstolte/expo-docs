@@ -22,4 +22,5 @@ To enable development mode, make sure the "Production mode" switch is turned off
 In the terminal with your project running in Expo CLI, press `p` to toggle the production mode.
 
 ## Showing the Developer Menu
-While you have the app open and development mode is enabled, shake your device to reveal the developer menu. If you are using an emulator, press ⌘+d for iOS or ctrl+m for Android.
+
+While you have the app open and Development Mode is enabled, the developer menu is able to be shown. Depending on your settings of the Expo Client, you will either shake your device or use a two-finger force touch to reveal the Developer Menu. When using an emulator there are key commands to be used, press ⌘+D for iOS or Ctrl+M for Android.
